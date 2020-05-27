@@ -1,0 +1,17 @@
+{
+  "name": "bases-node",
+  "version": "2.0.0",
+  "description": "Aplicacion de linea",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Javier Acuña",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^15.3.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
